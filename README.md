@@ -4,7 +4,7 @@
 #### 产品核心目标
 解决用户记笔记麻烦、整理笔记难等问题，提高用户的学习或工作效率。
 #### 产品核心功能
-![image](https://github.com/paihsinLi/APP/blob/main/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE/u156.png)
+![image](https://paihsinli.github.io/APP/u156.png)
 
 #### 设计原则
 1. 在未联网状态下支持离线编辑  
@@ -19,11 +19,11 @@
 **市场规模：**
 
 笔记类APP市场
-![image](https://github.com/paihsinLi/APP/blob/main/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE/u157.png)
+![image](https://paihsinli.github.io/APP/u157.png)
 在国内笔记APP市场中，印象笔记和有道云笔记的月度独立设备数量是最多的，且仍然呈现上升趋势，市场仍然在不断扩大。
 
 
-![image](https://github.com/paihsinLi/APP/blob/main/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE/u158.jfif)
+![image](https://paihsinli.github.io/APP/u158.jpg)
 
 支持团队协作编辑、支持多功能的笔记类APP的三巨头是印象笔记、有道云笔记和为知笔记，其中印象笔记的用户数量已经超过2亿，后面有道云笔记已经超过5000万，为知笔记也突破200万，市场潜力可以进一步发掘。
 
@@ -60,7 +60,7 @@
 3. 竞品功能分析
 
 有道云笔记、为知笔记、印象笔记的功能图
-![image](https://github.com/paihsinLi/APP/blob/main/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE/u159.png)
+![image](https://paihsinli.github.io/APP/u159.png)
 
 有道云笔记
 
