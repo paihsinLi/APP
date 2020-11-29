@@ -1,18 +1,10 @@
 # APP_team
-
-### 项目介绍
-小组协作式Axure项目
-中山大学南方学院 文学与传媒学院 网络与新媒体专业
-成员：谢冠岚 陈嘉劲 林立 李佰芯 王志伟 陈荣城
-
-### 产品方向
-
 #### 产品定位
 支持多功能录入笔记、支持团队协作与分享的智能笔记的产品
 #### 产品核心目标
 解决用户记笔记麻烦、整理笔记难等问题，提高用户的学习或工作效率。
 #### 产品核心功能
-![image](https://690244957.github.io/APP_team/%E7%AC%94%E8%AE%B0%E5%8A%A9%E6%89%8B%E6%A0%B8%E5%BF%83%E5%8A%9F%E8%83%BD.png)
+![image](https://github.com/paihsinLi/APP/blob/main/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE/u156.png)
 
 #### 设计原则
 1. 在未联网状态下支持离线编辑  
@@ -27,11 +19,11 @@
 **市场规模：**
 
 笔记类APP市场
-![image](https://690244957.github.io/APP_Final/%E7%AC%94%E8%AE%B0%E7%B1%BBAPP%E4%B8%A4%E5%A4%A7%E5%B7%A8%E5%A4%B4%E6%9C%88%E5%BA%A6%E7%8B%AC%E7%AB%8B%E8%AE%BE%E5%A4%87%E6%95%B0.png)
+![image](https://github.com/paihsinLi/APP/blob/main/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE/u157.png)
 在国内笔记APP市场中，印象笔记和有道云笔记的月度独立设备数量是最多的，且仍然呈现上升趋势，市场仍然在不断扩大。
 
 
-![image](https://690244957.github.io/APP_Final/%E7%AC%94%E8%AE%B0APP%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.jpg)
+![image](https://github.com/paihsinLi/APP/blob/main/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE/u158.jfif)
 
 支持团队协作编辑、支持多功能的笔记类APP的三巨头是印象笔记、有道云笔记和为知笔记，其中印象笔记的用户数量已经超过2亿，后面有道云笔记已经超过5000万，为知笔记也突破200万，市场潜力可以进一步发掘。
 
@@ -68,7 +60,7 @@
 3. 竞品功能分析
 
 有道云笔记、为知笔记、印象笔记的功能图
-![image](https://690244957.github.io/APP_Final/%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C%E7%AC%94%E8%AE%B0%E7%B1%BBAPP.png)
+![image](https://github.com/paihsinLi/APP/blob/main/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE/u159.png)
 
 有道云笔记
 
